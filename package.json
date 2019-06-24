@@ -1,5 +1,5 @@
 {
-  "name": "cli-resume",
+  "name": "cli-my-resume",
   "version": "1.0.0",
   "description": "Make your cli resume as npm package",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "url": ""
   },
   "bin": {
-    "cli-resume": "./index.js"
+    "cli-my-resume": "./index.js"
   },
   "author": "Joao Pereira",
   "license": "MIT"
