@@ -1,6 +1,6 @@
 {
   "name": "joaopereira-resume",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Make your cli resume as npm package",
   "main": "index.js",
   "scripts": {
@@ -21,4 +21,3 @@
   "author": "Joao Pereira",
   "license": "MIT"
 }
-
