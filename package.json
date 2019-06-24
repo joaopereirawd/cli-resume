@@ -1,0 +1,20 @@
+{
+  "name": "cli-resume",
+  "version": "1.0.0",
+  "description": "Make your cli resume as npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "resume": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Joao Pereira",
+  "license": "MIT"
+}
