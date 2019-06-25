@@ -4,8 +4,8 @@
     "Personal WebSite: https://joaopereira.pt/"
   ],
   "Recent Experience": [
-    "2015 - 2019 - Roff Consulting",
-    "2013 - 2015 - Cordelima"
+    "2015 - 2019: Roff Consulting",
+    "2013 - 2015: Cordelima"
   ],
 
   "Education": [
@@ -50,7 +50,7 @@
     "MAXI - http://www.maxi.co.ao",
     "NSeguros - https://www.nseguros.pt",
     "Sumol Compal- https://saborista.pt",
-    "Ordem dos Notários",
+    "Ordem dos Notários - Portal",
     "Saint Gobain - Portal de Fornecedores"
   ],
 
@@ -66,13 +66,29 @@
      "Vidro Torre (wordpress theme from scratch back & frontend dev) - http://vidrotorre.com/",
      "Sabamadeira (wordpress theme from scratch back & frontend dev) - https://sabamadeira.pt/",
      "Fimape (wordpress theme from scratch back & frontend dev) - http://fimape.pt/"
-
   ],
+
   "Awards": [
     "CSSwinner Star - https://www.csswinner.com/details/joo-pereira-front-end-developer/13165",
     "Site of The Day - https://www.bestcss.in/user/detail/JoaoPereiraCreativeFrontendDeveloper-7949",
     "Site of the Day - https://www.csslight.com/website/26651/Joao-Pereira-Creative-Frontend-Developer"
   ],
+
+  "Daily Tools": [
+    "MacOS, some projects I use Ubunto",
+    "Sketch",
+    "AdobeXD",
+    "Photoshop",
+    "Zeplin",
+    "Trello",
+    "Slack",
+    "Skype",
+    "Bitbucket",
+    "Github",
+    "Terminal",
+    "VSCode"
+  ],
+  
   "Contacts": [
     "E: joaopereirawd@gmail.com",
     "T: +351 962 189 481",
@@ -81,4 +97,5 @@
     "TW: https://twitter.com/joaopereirawd",
     "LI: https://www.linkedin.com/in/joaopereirawd/"
   ]
+
 }
